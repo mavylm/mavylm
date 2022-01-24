@@ -1,11 +1,11 @@
 <p align="center">
   <img src="./images/mavis-header.png" alt="Mavis Lim"/><br /><br />
   <a href="https://www.linkedin.com/in/mavislimhm/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mavislimhm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:mavislimhm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a><br /><br />
+  <a href="https://mavislim.com" alt="https://mavislim.com">🔗 https://mavislim.com</a>
 </p>
 
 ___
-
 ✨ Open for hire/commission  
 💼 6-month Full-stack Developer at Singapore Airlines  
 👩‍🎓️ 3-month Jr Full-stack Developer bootcamp by Generation Singapore
