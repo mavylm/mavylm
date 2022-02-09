@@ -6,7 +6,7 @@
 </p>
 
 ___
-✨ Open for hire/commission  
+✨ Full-stack Developer at Capgemini
 💼 6-month Full-stack Developer at Singapore Airlines  
 👩‍🎓️ 3-month Jr Full-stack Developer bootcamp by Generation Singapore
 ___
